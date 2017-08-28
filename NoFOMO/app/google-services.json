@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "503768077867",
+    "firebase_url": "https://nofomo-36cab.firebaseio.com",
+    "project_id": "nofomo-36cab",
+    "storage_bucket": "nofomo-36cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503768077867:android:564b0fa3446e304d",
+        "android_client_info": {
+          "package_name": "hu.ait.nofomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503768077867-qllbfgr6m6qi4rlognfk3iaepa3e4t78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.nofomo",
+            "certificate_hash": "a66249e2971fdbc8e2f7eb1284fa27915c15719c"
+          }
+        },
+        {
+          "client_id": "503768077867-pea9hv8gj3bd78nvjokambj9i7shtpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzzthVGyC5jMK4eCvxZQXX2_VaklV819Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503768077867-pea9hv8gj3bd78nvjokambj9i7shtpo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

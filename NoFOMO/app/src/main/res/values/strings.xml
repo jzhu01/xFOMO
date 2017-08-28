@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FOMO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">240121233137162</string>
+    <!--OAuth redirect URI-->
+    <string name="redirect_url">https://nofomo-36cab.firebaseapp.com/__/auth/handler</string>
+    <string name="fb_login_protocol_scheme">fb240121233137162</string>
+    <string name="title_location_permission">Request for Location Access</string>
+    <string name="text_location_permission">Hi! In order for NoFOMO to do our magic, we need you to allow us to see your current location. Would this be possible? Thanks!</string>
+    <string name="ok">I Agree</string>
+    <string name="getPlaceName">name</string>
+    <string name="getPlaceID">id</string>
+    <string name="getDescription">description</string>
+    <string name="getEndTime">end_time</string>
+    <string name="getEventName">name</string>
+    <string name="getStartTime">start_time</string>
+    <string name="getEventID">id</string>
+    <string name="getUserName">name</string>
+    <string name="getUserEmail">email</string>
+    <string name="getUserPreviousEvents">events</string>
+    <string name="getEventLocation">location</string>
+    <string name="getEventCity">city</string>
+    <string name="getEventCountry">country</string>
+    <string name="getEventLat">latitude</string>
+    <string name="getEventLng">longitude</string>
+    <string name="CancelLogin">Login Canceled</string>
+    <string name="FailedLogin">Failed:</string>
+    <string name="event">event</string>
+    <string name="PermissionRejectedMessage">Unable to Obtain Permission</string>
+    <string name="query">q</string>
+    <string name="type">type</string>
+    <string name="SuccessfulLoggingOut">Logout successful</string>
+    <string name="AboutMessage">This app was made by Jen for the Mobile Final!</string>
+    <string name="DashboardIntent">Already in the user dash!</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="welcomeMessage">Here to increase your fears of missing out on life\'s good moments. Click to begin!</string>
+    <string name="navigateMap">See Map</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="history">History</string>
+    <string name="event_name">Event Name</string>
+    <string name="description">Description</string>
+</resources>
